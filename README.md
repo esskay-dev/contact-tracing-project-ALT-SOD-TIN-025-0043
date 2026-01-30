@@ -25,8 +25,7 @@ In this project, I applied different data engineering concepts:
 * A person is considered high risk if they had close contact with an infected person and their total exposure time is at least 15 minutes
 
 ### How to run the program 
-1. Make sure you have Python 3.5+ installed
-2. Clone or download the repository to your local machine
+1. Clone or download the repository to your local machine
 3. Open a terminal and navigate to the project folder
 
 ### Run the main script: 

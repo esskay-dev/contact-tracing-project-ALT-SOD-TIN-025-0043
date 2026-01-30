@@ -45,7 +45,7 @@ def add_contact(person1: str, person2: str, duration: int):
     if person2 not in infection_status:
         add_person(person2, False)
 
-# Store contact
+# Store contact event
     contacts.append((person1, person2, duration))
 
 # Third Function
